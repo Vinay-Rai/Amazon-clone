@@ -287,7 +287,7 @@ font-weight: 700;}
 }
 
 .foot-logo{
-    background-image: url("images/amazon-logo.png");
+    background-image: url("/images/amazon-logo.png");
     background-size: cover;
     background-repeat: no-repeat;
     
