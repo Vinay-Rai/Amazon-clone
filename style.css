@@ -170,7 +170,7 @@ font-weight: 700;}
 
 .hero-section{
     height: 600px;
-    background-image: url(images//hero-image.jpg);
+    background-image: url('images/hero-image.jpg');
     background-size: cover;
     position: relative;
 }
